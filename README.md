@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello I'm Matheus Armando, a young Padawan in the paths of technology. </h2>
+Hello I'm Matheus Armando, a young Padawan in the paths of IOS development. </h2>
 <div align="center">
   <a href="https://github.com/matheusarmando199">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusarmando199&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
